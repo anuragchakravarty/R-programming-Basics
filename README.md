@@ -4,6 +4,6 @@ In this, I have performed basic data frame techniques like
 (1) Creating vectors and combining them to data frame
 (2) Finding Minimum and maximum values & Sum and average
 (3) Printing top and bottom rows as per requirement
-# (4) Calculation dimension and so on.
+(4) Calculation dimension and so on.
 
 Just go through my work...
