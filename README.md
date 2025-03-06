@@ -1,4 +1,4 @@
-# R-programming-Basics
+# Analyzing Vegetable Sales Data Using R: Data Frame Operations & Statistical Insights
 This is a basic R-programming code that creates a data frame containing information about vegetables, countries, units sold, and price per unit.
 In this, I have performed basic data frame techniques like 
 1. Creating vectors and combining them into a data frame
